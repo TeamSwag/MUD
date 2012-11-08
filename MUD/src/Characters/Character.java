@@ -1,3 +1,5 @@
+//Test
+
 package Characters;
 
 public abstract class Character {
